@@ -10,11 +10,11 @@ class CoreDataAndStatsApplicationTests {
 
     @Test
     void pipelineCheck() {
-        assertEquals("test", "test");
+        assertEquals("test", "xx");
     }
 
     @Test
     void pipelineCheck2() {
-        assertEquals("test", "3");
+        assertEquals("test", "test");
     }
 }
