@@ -15,6 +15,6 @@ class CoreDataAndStatsApplicationTests {
 
     @Test
     void pipelineCheck2() {
-        assertEquals("test", "3");
+        assertEquals("test", "test");
     }
 }
